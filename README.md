@@ -1,4 +1,3 @@
-# Anime-Next-WATCH
 
 # Anime Next Watch Generator
 
