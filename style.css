@@ -1,0 +1,174 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial,sans-serif;
+  background-color:#000;
+  color:#fff;
+}
+
+.nv{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px;
+  background-color:#0a0a0a;
+  border-bottom:1px solid #222;
+}
+
+.lg{
+  display:flex;
+  align-items:center;
+}
+
+.lg img{
+  width:50px;
+  height:50px;
+  border-radius:50%;
+  object-fit:cover;
+  object-position:top;
+  margin-right:15px;
+  border:2px solid #fff;
+  background-color:#fff;
+}
+
+.lg h2{
+  font-size:36px;
+  letter-spacing:2px;
+}
+
+.lg span{
+  color:#888;
+}
+
+.sb input{
+  background-color:#111;
+  color:#fff;
+  border:1px solid #333;
+  padding:10px 15px;
+  border-radius:4px;
+  width:250px;
+}
+
+.hr{
+  text-align:center;
+  padding:60px 20px;
+  background-color:#050505;
+  border-bottom:1px solid #222;
+}
+
+.st{
+  font-size:48px;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  font-style:italic;
+  text-shadow:0 0 15px rgba(255,255,255,0.6);
+}
+
+main{
+  padding:30px;
+  max-width:1200px;
+  margin:0 auto;
+}
+
+.ctrl{
+  display:flex;
+  justify-content:center;
+  gap:15px;
+  margin-bottom:30px;
+  flex-wrap:wrap;
+}
+
+.dd,.btn{
+  background-color:#111;
+  color:#fff;
+  border:1px solid #333;
+  padding:10px 15px;
+  border-radius:4px;
+  cursor:pointer;
+}
+
+.btn.act{
+  background-color:#fff;
+  color:#000;
+  font-weight:bold;
+}
+
+.ld{
+  text-align:center;
+  color:#888;
+  margin:50px 0;
+}
+
+.gc{
+  display:flex;
+  flex-wrap:wrap;
+  gap:20px;
+  justify-content:center;
+}
+
+.cd{
+  background-color:#0a0a0a;
+  border:1px solid #222;
+  width:220px;
+  border-radius:6px;
+  overflow:hidden;
+  transition:0.2s;
+}
+
+.cd:hover{
+  border-color:#fff;
+  transform:translateY(-5px);
+}
+
+.cd img{
+  width:100%;
+  height:300px;
+  object-fit:cover;
+}
+
+.ct{
+  padding:15px;
+}
+
+.ct h3{
+  font-size:16px;
+  margin-bottom:10px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.ct p{
+  font-size:14px;
+  color:#aaa;
+  margin-bottom:10px;
+}
+
+
+.ab{
+  width:100%;
+  background:#111;
+  color:#fff;
+  border:1px solid #333;
+  padding:8px;
+  cursor:pointer;
+  border-radius:3px;
+}
+
+.ab.sn{
+  background:#3385ff;
+  color:#fff;
+  border-color:#3385ff;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  border-top:1px solid #222;
+  margin-top:40px;
+  color:whitesmoke;
+}
