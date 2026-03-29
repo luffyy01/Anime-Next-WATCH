@@ -45,6 +45,6 @@ Download or clone the repo, then just open index.html in your browser.
 | Milestone | Deadline | Status |
 |---|---|---|
 | Setup + README | 23rd March | Done |
-| API integration | 1st April | In progress |
-| Search, filter, sort | 8th April | Upcoming |
-| Deploy + final | 10th April | Upcoming |
+| API integration | 1st April | DONE |
+| Search, filter, sort | 8th April | Done |
+| Deploy + final | 10th April | done |
