@@ -48,3 +48,8 @@ Download or clone the repo, then just open index.html in your browser.
 | API integration | 1st April | DONE |
 | Search, filter, sort | 8th April | Done |
 | Deploy + final | 10th April | done |
+
+
+
+## WATCH IT LIVE:
+https://anime-next-watch-9ug43i4hn-mits-projects-ad41f6d6.vercel.app/
